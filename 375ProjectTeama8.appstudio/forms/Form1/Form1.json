@@ -18,6 +18,27 @@
         "Elements",
         "Navs1.json"
       ]
+<<<<<<< Updated upstream
+=======
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Form1",
+        "Elements",
+        "Hamburger1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Form1",
+        "Elements",
+        "Label1.json"
+      ]
+>>>>>>> Stashed changes
     }
   ],
   "class": "",
