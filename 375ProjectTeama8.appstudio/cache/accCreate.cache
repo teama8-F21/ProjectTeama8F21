@@ -1,7 +1,7 @@
 
 btnSubCreate.onclick=function(){
-  website = iptWebsite.value
-  username = iptUsername.value
+  queswebsite = iptWebsite.value
+  quesusername = iptUsername.value
   
   ChangeForm(questionaire)
   

@@ -1,6 +1,6 @@
 
 confirmAcc.onshow=function(){
-  lbluser.value = username
-  lblwebsite.value = website
+  lbluser.value = quesusername
+  lblwebsite.value = queswebsite
   lblpassfinal.value = hashPass
 }
