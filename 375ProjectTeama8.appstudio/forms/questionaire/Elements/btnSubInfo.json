@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnSubInfo",
-  "left": 195,
+  "left": 200,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 297,
+  "top": 304,
   "value": "Generate",
   "width": "auto"
 }
