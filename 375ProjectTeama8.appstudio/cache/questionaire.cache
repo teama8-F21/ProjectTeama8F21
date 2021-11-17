@@ -25,8 +25,9 @@ let randPassword = Array(pwdLen).fill(pwdChars).map(function(x) { return x[Math.
 }
 
 btnsavepass.onclick=function(){
-  let hashPass = lblPassword.value
-  console.log(hashPass)
+  hashPass = lblPassword.value
+
+  ChangeForm(confirmAcc)
 }
 
 query = "Select * From questionaire"

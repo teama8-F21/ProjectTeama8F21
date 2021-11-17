@@ -1,0 +1,92 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "#DCDCDC",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "confirmAcc",
+        "Elements",
+        "lbluser.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "confirmAcc",
+        "Elements",
+        "lblwebsite.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "confirmAcc",
+        "Elements",
+        "lblpassfinal.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "confirmAcc",
+        "Elements",
+        "txtacc.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "confirmAcc",
+        "Elements",
+        "txtuser.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "confirmAcc",
+        "Elements",
+        "txtpass.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "confirmAcc",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "confirmAcc.onshow()",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}

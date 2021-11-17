@@ -31,8 +31,16 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "accCreate",
+            "accCreate.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "confirmAcc",
+            "confirmAcc.json"
           ]
         }
       ],
@@ -55,7 +63,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "questionaire",
+      "firstform": "accCreate",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
