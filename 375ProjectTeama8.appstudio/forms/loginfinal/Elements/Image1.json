@@ -14,10 +14,10 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": 95,
+  "height": 110,
   "hidden": "",
   "id": "Image1",
-  "left": 107,
+  "left": 103,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -46,8 +46,8 @@
   "right": "auto",
   "script": "",
   "shape": "",
-  "src": "images/802043_man_512x512.png",
+  "src": "images/801997_user_512x512.png",
   "style": "",
-  "top": 41,
-  "width": 105
+  "top": 22,
+  "width": 130
 }
