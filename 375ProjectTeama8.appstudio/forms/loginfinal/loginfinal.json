@@ -36,15 +36,6 @@
         "Elements",
         "loginsbmt.json"
       ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "loginfinal",
-        "Elements",
-        "Image1.json"
-      ]
     }
   ],
   "class": "",

@@ -34,6 +34,32 @@
             "homepage",
             "homepage.json"
           ]
+        },
+        {
+          "!type": "Code",
+          "cached_js": null,
+          "cached_js_script_hash": null,
+          "children": [],
+          "expanded_pmp": null,
+          "id": "style_css",
+          "language": "Other",
+          "loadType": "",
+          "obfuscate": "false",
+          "script": "",
+          "src": "style.css"
+        },
+        {
+          "!type": "Code",
+          "cached_js": null,
+          "cached_js_script_hash": null,
+          "children": [],
+          "expanded_pmp": null,
+          "id": "db9ba42a2fd1bb4ad3b2c4898_css",
+          "language": "Other",
+          "loadType": "",
+          "obfuscate": "false",
+          "script": "",
+          "src": "db9ba42a2fd1bb4ad3b2c4898.css"
         }
       ],
       "configxml": null,
