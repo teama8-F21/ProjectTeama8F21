@@ -25,25 +25,7 @@
         "forms",
         "homepage",
         "Elements",
-        "cardcont.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "homepage",
-        "Elements",
-        "prevbutt.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "homepage",
-        "Elements",
-        "nextbutt.json"
+        "HTMLview1.json"
       ]
     }
   ],
