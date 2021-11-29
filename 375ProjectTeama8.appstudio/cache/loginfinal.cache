@@ -21,6 +21,7 @@ loginsbmt.onclick=function(){
     
     if (req.status == 200) { //transit trip worked.  
     
+    //formats results 
     
     results=JSON.parse(req.responseText)
     
