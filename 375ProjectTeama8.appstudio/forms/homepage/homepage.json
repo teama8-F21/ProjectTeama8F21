@@ -25,7 +25,34 @@
         "forms",
         "homepage",
         "Elements",
-        "HTMLview1.json"
+        "Card1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "homepage",
+        "Elements",
+        "btnlast.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "homepage",
+        "Elements",
+        "btnnext.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "homepage",
+        "Elements",
+        "btnpswrd.json"
       ]
     }
   ],
